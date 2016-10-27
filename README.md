@@ -1,5 +1,4 @@
-DSC 2016 系列活動 R語言資料探勘實務
-課程網頁
+#DSC 2016 系列活動 R語言資料探勘實務
 ---
 ##課程筆記 <p>
 [RDM-01 Association Rules](https://hjhsu.github.io/RDM_hj2016/note/RDM-01-Association-Rule.html) <p>
