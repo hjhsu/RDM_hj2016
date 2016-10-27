@@ -13,3 +13,5 @@ library(methods)
 try(uninstall_course("DataScienceAndR"), silent=TRUE)
 try(uninstall_course("DSC2016-R"), silent=TRUE)
 swirl::install_course_github("hjhsu", "RDM_hj2016", "course")
+
+swirl()
