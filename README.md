@@ -1,7 +1,7 @@
 # RDM_hj2016
 HJ's RDM course for DSC2016 series
 課程筆記 <p>
-[RDM-01][] <p>
+[RDM-01 Association Rules](RDM-01 Association Rules) <p>
 [RDM-02] <p>
 [RDM-03] <p>
 [RDM-04] <p>
