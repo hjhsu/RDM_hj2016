@@ -38,9 +38,9 @@
   CorrectAnswer: "Species"
   AnswerTests: omnitest(correctVal = "Species")
 
-- Class: text
+- Class: cmd_question
   Output: |
-    因為Sepal.Length是數值型變數，所以我們可以使用建立線性模型的函數`lm`做學習，請同學輸入：`?lm`看看建立線性模型的說明文件。
+    因為Sepal.Length是數值型變數，所以我們可以使用建立線性模型的函數 lm 做學習，請同學輸入`?lm`看看建立線性模型的說明文件。
 
 - Class: text
   Output: |
