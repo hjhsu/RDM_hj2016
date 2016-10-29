@@ -27,11 +27,11 @@ library(swirl)
 delete_progress("user_name") # 修該user_name成為同學的暱稱
 uninstall_all_courses() # 移除所有舊課程
 install_course_github("wush978", "StatMLDM", "course")
----
-##講義
+```
+## 講義
 [RDataMining](https://hjhsu.github.io/RDM_hj2016/RDataMining.pdf)
 ---
-##課程筆記 <p>
+## 課程筆記 <p>
 [RDM-01 Association Rules](https://hjhsu.github.io/RDM_hj2016/note/RDM-01-Association-Rule.html) <p>
 [RDM-02 Linear Model](https://hjhsu.github.io/RDM_hj2016/note/RDM-02-Supervised-Learning-01-Linear-Model.html) <p>
 [RDM-03 Generalized Linear Model](https://hjhsu.github.io/RDM_hj2016/note/RDM-03-Supervised-Learning-02-Generalized-Linear-Model.html) <p>
