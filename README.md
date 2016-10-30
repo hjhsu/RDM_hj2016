@@ -50,6 +50,6 @@ install_course_github("hjhsu", "RDM_hj2016", "course")
 
 ---
 ##挑戰習題
-[台電得標公司資料分析](https://johnsonhsieh.github.io//DSC2016-R/example/R-Clustering-Taipower.html)
+[台電得標公司資料分析](https://johnsonhsieh.github.io//DSC2016-R/example/R-Clustering-Taipower.html) <p>
 [投票記錄資料](https://johnsonhsieh.github.io//DSC2016-R/example/R-Classification-primary.html)
 
