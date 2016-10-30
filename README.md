@@ -33,7 +33,7 @@ install_course_github("hjhsu", "RDM_hj2016", "course")
 - 如果安裝有問題，請清空過往課程
 ```
 library(swirl)
-delete_progress("user_name") # 修該user_name成為同學的暱稱
+delete_progress("user_name") # 修改user_name成為同學的暱稱
 uninstall_all_courses() # 移除所有舊課程
 install_course_github("hjhsu", "RDM_hj2016", "course")
 ```
@@ -48,4 +48,8 @@ install_course_github("hjhsu", "RDM_hj2016", "course")
 [RDM-04 Clustering](https://hjhsu.github.io/RDM_hj2016/note/RDM-04-Unsupervised-Learning-Clustering.html) <p>
 [RDM-05 Classification](https://hjhsu.github.io/RDM_hj2016/note/RDM-05-Classification.html) <p>
 
+---
+##挑戰習題
+[台電得標公司資料分析](https://johnsonhsieh.github.io//DSC2016-R/example/R-Clustering-Taipower.html)
+[投票記錄資料](https://johnsonhsieh.github.io//DSC2016-R/example/R-Classification-primary.html)
 
