@@ -4,7 +4,7 @@
 
 ---
 ##簡易啟動
-install_course_github("hjhsu", "RDM_hj2016", "course”)
+install_course_github("hjhsu", "RDM_hj2016", "course”) <p>
 swirl()
 
 ---
