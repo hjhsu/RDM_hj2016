@@ -1,5 +1,5 @@
 #DSC 2016 系列活動 R語言資料探勘實務 
-[本頁網址](http://tinyurl.com/RDM-hj2016)
+[本頁網址 http://tinyurl.com/RDM-hj2016](http://tinyurl.com/RDM-hj2016)
 請自行安裝 R(3.2.3 版以上), RStudio
 ---
 ##須知
