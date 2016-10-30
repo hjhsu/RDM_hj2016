@@ -34,7 +34,7 @@ install_course_github("hjhsu", "RDM_hj2016", "course")
 library(swirl)
 delete_progress("user_name") # 修該user_name成為同學的暱稱
 uninstall_all_courses() # 移除所有舊課程
-install_course_github("wush978", "StatMLDM", "course")
+install_course_github("hjhsu", "RDM_hj2016", "course")
 ```
 ## 講義
 [RDataMining](https://hjhsu.github.io/RDM_hj2016/RDataMining.pdf)
