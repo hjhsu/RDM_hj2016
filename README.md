@@ -2,6 +2,10 @@
 ##[本頁網址 http://tinyurl.com/RDM-hj2016](http://tinyurl.com/RDM-hj2016)
 ##請自行安裝 R(3.2.3 版以上), RStudio
 ---
+##簡易啟動
+install_course_github("hjhsu", "RDM_hj2016", "course”)
+swirl()
+---
 ##須知
 - 請檢查是否使用`http://wush978.github.io`上的swirl套件：
 
