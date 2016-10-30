@@ -1,4 +1,6 @@
-#DSC 2016 系列活動 R語言資料探勘實務
+#DSC 2016 系列活動 R語言資料探勘實務 
+[本頁網址](http://tinyurl.com/RDM-hj2016)
+請自行安裝 R(3.2.3 版以上), RStudio
 ---
 ##須知
 - 請檢查是否使用`http://wush978.github.io`上的swirl套件：
