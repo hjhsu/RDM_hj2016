@@ -22,6 +22,11 @@
   CorrectAnswer: vignette(package = "arules")
   AnswerTests: omnitest('vignette(package = "arules")')
   Hint: vignette(package = "arules")
+- Class: cmd_question
+  Output: 有一篇名叫arules的vignette。麻煩同學先打開它。
+  CorrectAnswer: vignette("arules", package = "arules")
+  AnswerTests: omnitest('vignette("arules", package = "arules")')
+  Hint: vignette("arules", package = "arules")
 - Class: text
   Output: 這篇文章仔細的介紹arules套件所提供的演算法、參數，以及提供了範例。 如果想要深入了解apriori演算法的同學，可以花點時間細讀這份文件。
 - Class: cmd_question
